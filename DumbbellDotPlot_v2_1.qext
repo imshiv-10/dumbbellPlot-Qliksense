@@ -1,0 +1,9 @@
+{
+	"name": "DumbbellDotPlot_v2_1",
+	"description": "Dot plot which shows relationship among various domains",
+	"icon": "bar-chart-vertical",
+	"type": "visualization",
+	"version": 2.1,
+	"preview": "bar",
+	"author": "eCS"
+}

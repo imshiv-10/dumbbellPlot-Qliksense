@@ -1,0 +1,53 @@
+.qv-object-DumbbellDotPlot_v2_1 div.qv-object-content-container {
+	/*font: 10px sans-serif;*/
+	/*font: 12px arial;*/
+	/*overflow : auto!important;*/
+	
+}
+
+
+.qv-object-DumbbellDotPlot_v2_1 .axis,
+.qv-object-DumbbellDotPlot_v2_1 .axis{
+		
+		
+		fill:none;
+		stroke:lightgrey;
+		shape‐rendering:crispEdges;
+		/*font-family: sans-serif;
+		font-size: 10px;*/
+		/*font-family: arial;*/
+		/*font-size: 12px;*/
+		
+	}
+
+.qv-object-DumbbellDotPlot_v2_1 .dot{
+	stroke:#000;
+
+}
+
+.qv-object-DumbbellDotPlot_v2_1 g.tick text {
+	/*font-size: 10px;
+	font-family: sans-serif;
+	/*font-weight:100!important; */
+	font-size: 12px;
+	/*font-family: arial;*/
+	/*fill: #000000; */
+	stroke: none;
+	fill:grey;
+	font-weight:normal;
+	
+	
+}
+
+.qv-object-DumbbellDotPlot_v2_1 rect {
+	overflow: auto;
+  fill: transparent;
+  /*fill: yellow;*/
+  shape-rendering: crispEdges;
+}
+
+
+
+
+
+

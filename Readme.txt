@@ -1,0 +1,1 @@
+This extension DumbbellDotPlot_v2_1 applies to CDA 5.1.1 and CDA-O 3.1.1 sheets.
